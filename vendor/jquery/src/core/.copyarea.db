@@ -1,0 +1,9 @@
+ClearCase CopyAreaDB|4
+ebank_src\pbank\vendor\jquery\src\core
+2
+5
+3:var|2|0|0|0|5e4736b749ed41faa084dc5467bc4956|0
+9:access.js|1|151f5c812d1|4c3|5b36876|733ae10377a14eaebf36f45c236c5edf|0
+8:ready.js|1|151f5c81338|f38|f6cfcb9b|b44d97ba0ffd40499f390b70fd96bdc9|0
+7:init.js|1|151f5c812ea|e84|1d046306|71b12532cab24d1783797e112c7adb15|0
+c:parseHTML.js|1|151f5c8132b|3aa|86623259|a9d0cadcecae4dd8846b5447de5d2b5f|0

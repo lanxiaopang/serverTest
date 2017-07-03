@@ -1,0 +1,7 @@
+ClearCase CopyAreaDB|4
+ebank_src\pbank\vendor\jquery\src\event
+2
+3
+7:ajax.js|1|151f5c81655|142|d21365bb|e986618eae734820ba6b0fcd92dc2e17|0
+a:support.js|1|151f5c81682|281|bfd1ca4b|bc452e719d884613aaddbf52aa40720b|0
+8:alias.js|1|151f5c8166c|446|5e0361d1|743c57676bcc40a38b17e4a8ad8f0753|0

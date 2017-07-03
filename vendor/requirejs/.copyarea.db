@@ -1,0 +1,8 @@
+ClearCase CopyAreaDB|4
+ebank_src\pbank\vendor\requirejs
+2
+4
+9:README.md|1|151f5c8a7d7|4b|f94b1a36|0671efe3051c42f6a4c5191658c905e4|0
+b:.bower.json|1|153b1f8d211|23a|aff0a0d7|a73cb2abbec44f9b95a9de7aa10afd4e|0
+a:bower.json|1|153b1f8d24e|131|e9ff5590|4f8e8da202164bf48f2192289e435dc9|0
+a:require.js|1|153b1f8d287|150f6|4d2aa19b|76c72150113a4886a48b28bb5aeb75be|0

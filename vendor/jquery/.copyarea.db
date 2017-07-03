@@ -1,0 +1,9 @@
+ClearCase CopyAreaDB|4
+ebank_src\pbank\vendor\jquery
+2
+5
+b:.bower.json|1|151f5c80cfe|2e3|5352c5be|54730e14434c434aad775ca72feaf76a|0
+f:MIT-LICENSE.txt|1|151f5c80d44|44b|b7f26150|c6837f7e1ab741c98aa7209171c47d90|0
+a:bower.json|1|151f5c80d19|1b4|c40f6e82|31c24085c4a04d13817e14d393fbbe5d|0
+3:src|2|0|0|0|55cd4f21fea3482f8129ff0dcd255deb|0
+4:dist|2|0|0|0|f90836d99a224a9e827ed1ef8c6d8652|0
